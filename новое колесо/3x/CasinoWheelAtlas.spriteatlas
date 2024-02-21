@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CasinoWheelAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: e608c22ddc2173547be72dad28565446, type: 3}
+    - {fileID: 2800000, guid: 14b4a07ecb470ce4493fe4d608c2d51c, type: 3}
+    - {fileID: 2800000, guid: fca8f15b510dbcc43b838ad145a71910, type: 3}
+    - {fileID: 2800000, guid: ead74146ddeabaf46a58e478625205e3, type: 3}
+    - {fileID: 2800000, guid: 2b4ef0a6dc80ddc46b0a0d4699bea1e6, type: 3}
+    - {fileID: 2800000, guid: 2ff472392b14ba240aea98dfdc7b9eff, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - ead74146ddeabaf46a58e478625205e3: 21300000
+    - 2b4ef0a6dc80ddc46b0a0d4699bea1e6: 21300000
+    - 2ff472392b14ba240aea98dfdc7b9eff: 21300000
+    - fca8f15b510dbcc43b838ad145a71910: 21300000
+    - e608c22ddc2173547be72dad28565446: 21300000
+    - 14b4a07ecb470ce4493fe4d608c2d51c: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ead74146ddeabaf46a58e478625205e3, type: 3}
+  - {fileID: 21300000, guid: 2b4ef0a6dc80ddc46b0a0d4699bea1e6, type: 3}
+  - {fileID: 21300000, guid: 2ff472392b14ba240aea98dfdc7b9eff, type: 3}
+  - {fileID: 21300000, guid: fca8f15b510dbcc43b838ad145a71910, type: 3}
+  - {fileID: 21300000, guid: e608c22ddc2173547be72dad28565446, type: 3}
+  - {fileID: 21300000, guid: 14b4a07ecb470ce4493fe4d608c2d51c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "\u043A\u0430\u0437\u0438\u043D\u043E \u043D\u0435\u0439\u043C@3x"
+  - "\u0441\u043F\u0438\u043D \u0431\u0430\u0442\u043E\u043D@3x"
+  - "\u0441\u0442\u0440\u0435\u043B\u043A\u0430@3x"
+  - "\u043C\u0435\u0439\u043D \u043A\u043E\u043B\u0435\u0441\u043E@3x"
+  - "\u0421\u0435\u043B\u0435\u043A\u0442 \u0441\u0435\u043A\u0446\u0438\u044F@3x"
+  - "\u0437\u0430\u0434\u043D\u0438\u0439 \u0444\u043E\u043D \u043A\u043E\u043B\u0435\u0441\u0430@3x"
+  m_RenderDataMap: {}
+  m_Tag: CasinoWheelAtlas
+  m_IsVariant: 0
