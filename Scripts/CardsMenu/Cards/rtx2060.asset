@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e531283e1c00cb408d1521e0604f138, type: 3}
+  m_Name: rtx2060
+  m_EditorClassIdentifier: 
+  type: 1
+  image: {fileID: 21300000, guid: 0d036c8f6094ab3438f61c30546527de, type: 3}
+  modelLvl: 2
+  profitFromTime: 1
+  imageCoolingUp: {fileID: 21300000, guid: 48e11dab55be52648a89e55d26ba3eef, type: 3}
+  mainVintPref:
+  - {fileID: 3405993407438658455, guid: 226204a430eec3840bbbbcc49680e43c, type: 3}
+  - {fileID: 1856727589979731256, guid: 4451495fbd6210149a7db142cb31b6bf, type: 3}
+  coolingVintPref:
+  - {fileID: 5888480730646642111, guid: 0578a09b77fde1b46bdf6f8ca8614e17, type: 3}
+  - {fileID: 4884012315690290227, guid: d428ffc30c7c33b4d9637b493d6a676a, type: 3}
+  - {fileID: 1760326055179672039, guid: 2b045b5756b2cfc4ba6f8aa94c061225, type: 3}
+  modelUpProfit: 5000
+  coolingUpMultimlier: 1.2
+  productivityUpMultiplier: 1.2
+  profitFromClickMultiplier: 1.2
